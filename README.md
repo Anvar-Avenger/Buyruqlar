@@ -1,0 +1,2 @@
+# Buyruqlar
+Barcha buyruqlar
